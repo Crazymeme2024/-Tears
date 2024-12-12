@@ -1,4 +1,4 @@
-# tears
+# $Tears
 First AI Agent Meme for Charity, with vision for One Earth, One Community.
 Mission: To harness the power of AI and blockchain to bring joy and relief to those in need, transforming emotions into impactful actions that unite and uplift communities worldwide.
 About $Tears
